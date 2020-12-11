@@ -3,13 +3,11 @@ i made this myself works on all platforms im still pretty much a python beginner
 
 Installation:
  
-apt-get install tor
+sudo apt-get install tor dos2unix -y
  
-pip3 install GoogleScraper
  
-pip3 install requests
+pip3 install -r requirements.txt
  
-apt-get install dos2unix
  
 Usage:
  
