@@ -5,6 +5,7 @@ Installation:
 apt-get install tor
 pip3 install GoogleScraper
 pip3 install requests
+apt-get install dos2unix
 
 Usage:
  
