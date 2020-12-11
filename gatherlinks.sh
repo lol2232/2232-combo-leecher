@@ -1,6 +1,6 @@
-echo "ctrl+c out of this script if tor isnt on and put your query in query.txt you have 5 seconds"
+echo "ctrl+c out of this script if tor isnt on and put your query(s) in a txt starting in 5 seconds"
 sleep 5
-echo "how many pages?"
+echo "how many pages do you wanna scrape? (the more the longer it takes)"
 read pagenum
 echo "keyword file"
 read keywordfile
