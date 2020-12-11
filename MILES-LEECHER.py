@@ -4,6 +4,8 @@ import requests
 from multiprocessing import Queue
 from time import sleep
 import time
+import colorama 
+from colorama import Fore, Back, Style
 
 q = Queue()
 qcount = 0
