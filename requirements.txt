@@ -1,0 +1,4 @@
+requests==2.25.0
+GoogleScraper==0.2.4
+colorama==0.4.4
+
