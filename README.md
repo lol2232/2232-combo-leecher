@@ -1,4 +1,4 @@
-# miles-combo-leecher
+# 2232-combo-leecher
 i made this myself works on all platforms im still pretty much a python beginner so not the greatest code scrapes throwbin for combos with your keyword then puts them all in a txt
 
 Installation:
