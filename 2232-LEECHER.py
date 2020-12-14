@@ -27,6 +27,10 @@ sleep(5)
 q = Queue()
 qcount = 0
 try:
+    os.system("touch " + sys.argv[2])
+except:
+    print("usage 2232-LEECHER.py inputfile outputfile")
+try:
     ff = open(sys.argv[1], "r")
 except:
     print(Fore.BLUE)
@@ -49,3 +53,4 @@ for link in links:
     print(asd1)
 else:
      print("fail?")
+sys.exit()
