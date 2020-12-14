@@ -15,7 +15,7 @@ service tor start
  
 ./gatherlinks.sh; # this will gather your links to leechedlinks.txt
  
-python3 MILES-LEECHER.py inputfile outputfile # if you used gatherlinks.sh your inputfile is leechedlinks.txt
+python3 2232-LEECHER.py inputfile outputfile # if you used gatherlinks.sh your inputfile is leechedlinks.txt
  
 once it stops moving and it gets stuck at one place you can hit control c its most likely done
  
