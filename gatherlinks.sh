@@ -19,3 +19,4 @@ awk '{print "https://api.throwbin.io/v1/paste/"$0}' pasteids.txt > leechedlinks.
 rm pasteids.txt
 rm doublefiltered.txt
 rm rawout.txt
+rm google*
